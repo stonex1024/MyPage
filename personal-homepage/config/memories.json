@@ -1,0 +1,87 @@
+[
+  {
+    "id": "sea-breeze",
+    "date": "2026-08-15",
+    "placeId": "qingdao",
+    "category": "旅行",
+    "title": "把夏天，留在海风里",
+    "description": "没有赶路的计划，只想沿着海岸多走一会儿。浪花一遍遍靠近，像一句不厌其烦的喜欢。",
+    "tags": ["海边散步", "夏日来信"],
+    "media": {
+      "type": "image",
+      "src": "assets/images/coast.jpg",
+      "alt": "柔和光线下的海岸风景"
+    }
+  },
+  {
+    "id": "small-flowers",
+    "date": "2026-05-20",
+    "placeId": "",
+    "category": "日常",
+    "title": "今天，也有小小的浪漫",
+    "description": "抬头时，恰好遇见一树花开。日子不一定特别，喜欢却可以很具体。",
+    "tags": ["花开时节", "平凡的快乐"],
+    "media": {
+      "type": "image",
+      "src": "assets/images/flowers.jpg",
+      "alt": "春日枝头盛开的粉色樱花"
+    }
+  },
+  {
+    "id": "slow-morning",
+    "date": "2026-02-22",
+    "placeId": "chengdu",
+    "category": "影像",
+    "title": "听见春天，轻轻经过",
+    "description": "把镜头留给一朵花，把时间留给自己。一小段影像，收藏一个不着急的午后。",
+    "tags": ["生活片段", "慢一点"],
+    "media": {
+      "type": "video",
+      "src": "assets/videos/flowers.mp4",
+      "poster": "assets/images/flowers.jpg",
+      "alt": "花朵随风轻轻摇动的短视频"
+    }
+  },
+  {
+    "id": "sunset-letter",
+    "date": "2025-06-08",
+    "placeId": "xiamen",
+    "category": "旅行",
+    "title": "日落是天空写的情书",
+    "description": "等天空慢慢染上粉色，等海面接住最后一束光。什么都没说，却觉得这个傍晚刚刚好。",
+    "tags": ["日落收藏家", "海岛日记"],
+    "media": {
+      "type": "image",
+      "src": "assets/images/hero.jpg",
+      "alt": "温柔的夕阳与自然风景"
+    }
+  },
+  {
+    "id": "city-walk",
+    "date": "2025-03-16",
+    "placeId": "shanghai",
+    "category": "日常",
+    "title": "在街角，遇见一个好天气",
+    "description": "绕远一点回家，看看没走过的小路。原来熟悉的城市，也藏着许多还没发现的温柔。",
+    "tags": ["城市漫步", "周末碎片"],
+    "media": {
+      "type": "image",
+      "src": "assets/images/city.jpg",
+      "alt": "晚霞下的上海黄浦江与城市建筑"
+    }
+  },
+  {
+    "id": "lake-letter",
+    "date": "2024-04-20",
+    "placeId": "dali",
+    "category": "旅行",
+    "title": "去有风的地方，慢慢生活",
+    "description": "湖水很安静，云走得很慢。那些忙碌里忘记的心情，都在这一刻重新变得清晰。",
+    "tags": ["山水之间", "春日出走"],
+    "media": {
+      "type": "image",
+      "src": "assets/images/lake.jpg",
+      "alt": "山峦环抱下的宁静湖面"
+    }
+  }
+]
